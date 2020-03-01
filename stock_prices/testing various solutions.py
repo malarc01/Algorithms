@@ -48,7 +48,10 @@ l = [10, 7, 5, 8, 11, 9]
 [1050, 270, 1540, 3800, 2]
 [1050, 270, 1540, max, min]
 [1050, min, 1540, max, 2]
-
+# if min is at the end of list 
+# search for another min exclude it from search 
+# from index search for max
+# if no max set max to 0 
 3530
 # find min value first
 
